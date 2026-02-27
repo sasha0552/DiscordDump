@@ -1,0 +1,7 @@
+__pycache__/
+data/
+mongodb-compass-isolated-1.49.1-win32-x64/
+mongodb-win32-x86_64-windows-8.2.5/
+node_modules/
+.env
+*.txt
